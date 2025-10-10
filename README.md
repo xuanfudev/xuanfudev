@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">, I'm Xuan Phu 🚀</h1>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://github.com/xuanphu03">
+<a href="https://github.com/xuanfudev">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/kuma.xp03">
@@ -55,8 +55,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-27282d?style=flat&logo=PostgreSQL)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-27282d?style=flat&logo=Microsoft%20SQL%20Server)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanphu03&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanphu03&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanfudev&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanfudev&show_icons=true&theme=dracula)
 
 
 #### Other
