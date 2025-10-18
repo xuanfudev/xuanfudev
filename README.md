@@ -1,4 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">, I'm Xuan Phu 🚀</h1>
+<h2 align="center">Frontend Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/xuanfudev">
